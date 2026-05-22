@@ -1,0 +1,16 @@
+name: Profile improvement
+about: Suggest an improvement for the GitHub profile README
+labels: [documentation, profile]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to suggest changes for profile content, project links, badges, or visuals.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggestion
+      description: What should be improved?
+      placeholder: Add a new skill badge, update a project link, improve wording, etc.
+    validations:
+      required: true

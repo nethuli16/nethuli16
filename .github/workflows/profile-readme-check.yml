@@ -1,0 +1,29 @@
+name: Profile README Quality Check
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required profile sections and links
+        shell: bash
+        run: |
+          test -f README.md
+          grep -q "Nethuli Gunathilaka" README.md
+          grep -q "E-med-Pharmacy" README.md
+          grep -q "SE1020-Project-WD.IT.09.174" README.md
+          grep -q "MediTrust Pharmacy" README.md
+          grep -q "Home Tutor System" README.md
+          grep -q "Artificial Intelligence" README.md
+          grep -q "https://github.com/nethuli16/E-med-Pharmacy" README.md
+          grep -q "https://github.com/nethuli16/SE1020-Project-WD.IT.09.174" README.md
+          echo "Profile README looks good."

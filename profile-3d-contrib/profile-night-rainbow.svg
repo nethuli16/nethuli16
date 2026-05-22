@@ -1,0 +1,5 @@
+<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="240" rx="24" fill="#111827"/>
+  <text x="500" y="105" text-anchor="middle" fill="#72E4FF" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="800">3D Contribution Profile</text>
+  <text x="500" y="150" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="18">Run the GitHub Action to generate the live contribution graphic.</text>
+</svg>

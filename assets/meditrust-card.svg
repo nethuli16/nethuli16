@@ -1,0 +1,17 @@
+<svg width="620" height="260" viewBox="0 0 620 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="260"><stop stop-color="#ECFDF5"/><stop offset="1" stop-color="#EFF6FF"/></linearGradient>
+  </defs>
+  <rect width="620" height="260" rx="28" fill="url(#bg)" stroke="#10B981" stroke-width="2"/>
+  <circle cx="500" cy="40" r="92" fill="#10B981" opacity="0.10"/>
+  <rect x="38" y="38" width="80" height="80" rx="22" fill="#065F46"/>
+  <path d="M78 55v46M55 78h46" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <text x="140" y="66" fill="#064E3B" font-family="Inter, Segoe UI, Arial" font-size="28" font-weight="800">MediTrust Pharmacy</text>
+  <text x="140" y="99" fill="#1F2937" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="600">PHP • MySQL/MariaDB • Bootstrap • PDO</text>
+  <text x="42" y="145" fill="#374151" font-family="Inter, Segoe UI, Arial" font-size="17">Online pharmacy system with products, search, cart, checkout,</text>
+  <text x="42" y="174" fill="#374151" font-family="Inter, Segoe UI, Arial" font-size="17">prescription upload, and admin prescription/product management.</text>
+  <rect x="42" y="207" width="112" height="32" rx="16" fill="#D1FAE5"/>
+  <text x="66" y="229" fill="#065F46" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="700">Completed</text>
+  <rect x="170" y="207" width="118" height="32" rx="16" fill="#DBEAFE"/>
+  <text x="195" y="229" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="700">Web App</text>
+</svg>
