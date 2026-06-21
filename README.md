@@ -4,12 +4,12 @@
 
 <br/>
 
-# Hi, I'm Nethuli Gunathilaka 👋
+# Hi, I'm Nethuli Gunathilaka
 
 ### BSc (Hons) Information Technology Undergraduate at SLIIT  
 ### Specialization: Artificial Intelligence
 
-I am building a strong software engineering foundation through practical **PHP**, **Java**, **Spring Boot**, **React**, and database-driven web application projects.
+I am building a strong software engineering foundation through practical **PHP**, **Java** and database-driven web application projects.
 
 <br/>
 
